@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Nyaa",
+    "author": "Unknown",
+    "version": "1.0.0",
+    "type": "torrent",
+    "doc": "Nyaa.si RSS scraper",
+    "url": "https://raw.githubusercontent.com/maplw0/nyaa-repo/main/extensions/nyaa.js"
+  }
+]

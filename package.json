@@ -1,0 +1,8 @@
+{
+  "name": "hayase-repo",
+  "version": "1.0.0",
+  "description": "Custom Hayase extension repository",
+  "scripts": {
+    "build": "node scripts/generate-manifest.js"
+  }
+}
